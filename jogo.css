@@ -6,7 +6,7 @@
 
 .game{
     width: 100%;
-    height: 1397px;
+    height: 963px;
     border-bottom: 20px solid green;
     margin: 0 auto;
     position: relative;
@@ -85,7 +85,7 @@
     border: none;
     padding: 1rem;
     position: absolute;
-    right: 90vw;
+    right: 85vw;
     top: 1vh;
     cursor: pointer;
     z-index: 1;
